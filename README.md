@@ -1,2 +1,8 @@
 # Landing-Page-Arquitetura
-Este é o projeto de desenvolvimento do modulo base do curso de tecnologia da escola DNC.
+Esta é a Landing Page de uma empresa de Arquitetura, onde apresenta os seus serviços e contatos para orçamento.
+
+<h4 align="center"> 
+    :construction:  Projeto em concluido  :construction:
+</h4>
+
+
