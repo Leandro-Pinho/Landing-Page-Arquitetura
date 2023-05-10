@@ -26,3 +26,7 @@ Após baixar o projeto, você pode abrir com o Android Studio. Para isso, na tel
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Leandro-Pinho/Landing-Page-Arquitetura).
+
+Link do site disponibilizado: https://lparquitetura.netlify.app/
+
+Link da planilha de registro de informação:  https://docs.google.com/spreadsheets/d/1w7Tn1Uo6UQ98QxdzPfcenLw4iN9QoWvaok9nDY52wqA/edit#gid=0
