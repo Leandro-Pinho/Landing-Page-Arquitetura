@@ -10,7 +10,7 @@ A Landing Page traz uma apresentação da empresa com seus serviços prestado e 
 
 # 📁 Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+**https://lparquitetura.netlify.app/**
 
 # 🛠️ Abrir e rodar o projeto
 Após baixar o projeto, você pode abrir com o Android Studio. Para isso, na tela de launcher clique em:
